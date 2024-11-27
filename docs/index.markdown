@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-Where does this get published?
