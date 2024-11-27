@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+<img src="images/Icon.png" width="250" height="250" style="display: block; margin: 0 auto"/>
+
+Welcome to Voice Control, a Visual Studio Code extension that allows users to control the IDE completely
+hands free!
